@@ -1,20 +1,30 @@
-{"student_id":1,"first_name":"Wendi","last_name":"Cutforth","major":"Electrical Engineering","class_standing":"Junior","gpa":2.29}
-{"student_id":2,"first_name":"Prentice","last_name":"Megroff","major":"Computer Science","class_standing":"Senior","gpa":3.34}
-{"student_id":3,"first_name":"Lamont","last_name":"Lowrie","major":"Undecided","class_standing":"Senior","gpa":2.16}
-{"student_id":4,"first_name":"Birgitta","last_name":"Skase","major":"Electrical Engineering","class_standing":"Sophomore","gpa":3.08}
-{"student_id":5,"first_name":"Suzie","last_name":"Bickers","major":"Undecided","class_standing":"Sophomore","gpa":3.36}
-{"student_id":6,"first_name":"Janey","last_name":"Matys","major":"Computer Science","class_standing":"Junior","gpa":2.37}
-{"student_id":7,"first_name":"Kathy","last_name":"Blackwood","major":"Electrical Engineering","class_standing":"Junior","gpa":2.28}
-{"student_id":8,"first_name":"Cy","last_name":"McRuvie","major":"Computer Science","class_standing":"Freshman","gpa":3.18}
-{"student_id":9,"first_name":"Arlyn","last_name":"Quilligan","major":"Computer Science","class_standing":"Sophomore","gpa":3.69}
-{"student_id":10,"first_name":"Cherry","last_name":"Duval","major":"Electrical Engineering","class_standing":"Sophomore","gpa":2.86}
-{"student_id":11,"first_name":"Amandi","last_name":"Beyn","major":"Mechanical Engineering","class_standing":"Junior","gpa":2.06}
-{"student_id":12,"first_name":"Thibaud","last_name":"Whaplington","major":"Undecided","class_standing":"Freshman","gpa":3.01}
-{"student_id":13,"first_name":"Thadeus","last_name":"Kalinsky","major":"Computer Science","class_standing":"Junior","gpa":3.73}
-{"student_id":14,"first_name":"Erskine","last_name":"Patterson","major":"Computer Science","class_standing":"Sophomore","gpa":2.12}
-{"student_id":15,"first_name":"Laetitia","last_name":"Bullus","major":"Undecided","class_standing":"Freshman","gpa":3.67}
-{"student_id":16,"first_name":"Pauline","last_name":"Stading","major":"Electrical Engineering","class_standing":"Sophomore","gpa":3.85}
-{"student_id":17,"first_name":"Dacie","last_name":"Featherbie","major":"Electrical Engineering","class_standing":"Sophomore","gpa":2.82}
-{"student_id":18,"first_name":"Arney","last_name":"Davidwitz","major":"Undecided","class_standing":"Freshman","gpa":2.1}
-{"student_id":19,"first_name":"Consolata","last_name":"Muehle","major":"Electrical Engineering","class_standing":"Sophomore","gpa":2.02}
-{"student_id":20,"first_name":"Liz","last_name":"Van der Kruijs","major":"Computer Science","class_standing":"Junior","gpa":3.55}
+{
+    "student_id": 18,
+    "first_name": "Rick",
+    "last_name": "Meijeir",
+    "major": "Computer Science",
+    "class_standing": "Freshman",
+    "gpa": 3.42,
+    "course_taken": [
+        {
+            "class_name": "CS 124",
+            "grade": "3.9"
+        },
+        {
+            "class_name": "MATH 220",
+            "grade": "3.0"
+        },
+        {
+            "class_name": "ENG 100",
+            "grade": "3.5"
+        },
+        {
+            "class_name": "PHYS 211",
+            "grade": "2.9"
+        },
+        {
+            "class_name": "KIN 104",
+            "grade": "3.8"
+        }
+    ]
+}
